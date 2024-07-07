@@ -1,4 +1,4 @@
-# TalentsAntiCheat_v2
+# TalentsAntiCheatConfig_v2
 塔反v2, 原作者TalentsRC
 
 - [TACv3+](https://github.com/TalentsRC/Talents-AntiCheat-Config)
