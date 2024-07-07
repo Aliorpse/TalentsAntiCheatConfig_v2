@@ -1,0 +1,22 @@
+﻿#-----------------------------------------
+#
+#         Announcement 公告|广播
+#          -=  by: CanYing  =-
+#
+#-----------------------------------------
+Broadcast:
+  # 启用广播 true 开启 | false 关闭
+  Enable: true
+  # 广播前缀 可使用 & 作为颜色字符
+  Prefix: '&8&l[&dSpartan&8&l]&c&l  '
+  # 可以改但没必要 部分显示给管理和玩家
+  WrongCommand: "&c语法错误: /com Broadcast [信息]"
+  NoPermission: "&c你没有权限使用"
+  Disable: "&c该功能关闭,需要手动开启"
+BroadcastTitle:
+  # 启用标题广播 true 开启 | false 关闭
+  Enable: true
+  # 可以改但没必要 部分显示给管理和玩家
+  WrongCommand: "&c语法错误: /com BroadcastTitle [信息]"
+  NoPermission: "&c你没有权限使用"
+  Disable: "&c该功能关闭,需要手动开启"
